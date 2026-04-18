@@ -24,7 +24,7 @@ Esta foi uma das maiores lições do projeto. Um prompt mal escrito gera respost
 - **Edge cases devem estar no system prompt**: colocar os casos limite só nos exemplos não é suficiente; os mais críticos precisam estar nas regras principais
 ### 3. Estrutura de dados para agentes
  
-Aprendi a diferença entre injetar os dados **diretamente no prompt** (mais simples, bom para protótipos) versus carregar **dinamicamente via código** (mais escalável para produção). Neste projeto usei a abordagem direta com Python + pandas:
+Aprendi a diferença entre injetar os dados manualmente no prompt ou carregar dinamicamente via código (mais escalável para produção). Neste projeto usei a abordagem dinâmica com Python + pandas:
  
 ```python
 perfil     = json.load(open('./data/perfil_investidor.json', encoding='utf-8'))
