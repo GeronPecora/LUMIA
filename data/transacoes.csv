@@ -1,0 +1,49 @@
+data,descricao,categoria,valor,tipo
+2025-10-01,Salário,receita,5000.00,entrada
+2025-10-02,Aluguel,moradia,1200.00,saida
+2025-10-03,Supermercado,alimentacao,450.00,saida
+2025-10-05,Netflix,lazer,55.90,saida
+2025-10-07,Farmácia,saude,89.00,saida
+2025-10-10,Restaurante,alimentacao,120.00,saida
+2025-10-12,Uber,transporte,45.00,saida
+2025-10-15,Conta de Luz,moradia,180.00,saida
+2025-10-20,Academia,saude,99.00,saida
+2025-10-25,Combustível,transporte,250.00,saida
+2025-10-28,Padaria,alimentacao,35.00,saida
+2025-11-01,Salário,receita,5000.00,entrada
+2025-11-02,Aluguel,moradia,1200.00,saida
+2025-11-03,Supermercado,alimentacao,420.00,saida
+2025-11-05,Spotify,lazer,34.90,saida
+2025-11-06,Farmácia,saude,65.00,saida
+2025-11-08,Restaurante,alimentacao,95.00,saida
+2025-11-10,Uber,transporte,60.00,saida
+2025-11-12,Conta de Luz,moradia,175.00,saida
+2025-11-15,Internet,moradia,120.00,saida
+2025-11-18,Academia,saude,99.00,saida
+2025-11-20,Combustível,transporte,230.00,saida
+2025-11-22,Cinema,lazer,40.00,saida
+2025-11-25,Padaria,alimentacao,28.00,saida
+2025-12-01,Salário,receita,5000.00,entrada
+2025-12-02,Aluguel,moradia,1200.00,saida
+2025-12-03,Supermercado,alimentacao,480.00,saida
+2025-12-05,Netflix,lazer,55.90,saida
+2025-12-06,Farmácia,saude,72.00,saida
+2025-12-08,Restaurante,alimentacao,130.00,saida
+2025-12-10,Uber,transporte,50.00,saida
+2025-12-12,Conta de Luz,moradia,190.00,saida
+2025-12-15,Internet,moradia,120.00,saida
+2025-12-18,Academia,saude,99.00,saida
+2025-12-20,Combustível,transporte,260.00,saida
+2025-12-22,Presente,lazer,150.00,saida
+2025-12-25,Ceia de Natal,alimentacao,300.00,saida
+2025-12-28,Padaria,alimentacao,32.00,saida
+2026-01-01,Salário,receita,5000.00,entrada
+2026-01-02,Aluguel,moradia,1200.00,saida
+2026-01-03,Supermercado,alimentacao,410.00,saida
+2026-01-05,Spotify,lazer,34.90,saida
+2026-01-07,Farmácia,saude,80.00,saida
+2026-01-10,Restaurante,alimentacao,110.00,saida
+2026-01-12,Uber,transporte,55.00,saida
+2026-01-15,Conta de Luz,moradia,185.00,saida
+2026-01-18,Academia,saude,99.00,saida
+2026-01-20,Combustível,transporte,240.00,saida
