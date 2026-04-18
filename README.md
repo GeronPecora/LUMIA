@@ -139,3 +139,9 @@ Os dados do cliente são carregados na inicialização e injetados diretamente n
 - [Qwen3](https://ollama.com/library/qwen3) — modelo de linguagem
 - [pandas](https://pandas.pydata.org/) — manipulação dos dados CSV
 - Python 3.10+
+
+## 🎬 Evidência de Execução
+<img width="793" height="571" alt="image" src="https://github.com/user-attachments/assets/3e8b1cca-96eb-4d92-93dd-0e478b153d5b" />
+<img width="786" height="385" alt="image" src="https://github.com/user-attachments/assets/1de298d0-4f07-4729-b3e2-254498b00f75" />
+
+
