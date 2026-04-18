@@ -19,7 +19,7 @@ Um agente de IA vai muito além de "chamar uma API". Aprendi que um agente bem c
 Esta foi uma das maiores lições do projeto. Um prompt mal escrito gera respostas imprevisíveis, especialmente em modelos menores (como o Qwen3 via Ollama). Aprendi que:
  
 - **Regras vagas geram comportamentos vagos**: "responda de forma simples" não é suficiente. É preciso dar exemplos concretos do que é certo e errado
-- **Proibições precisam de exemplos negativos**: para evitar markdown vazando na resposta, não basta dizer "não use markdown" — é preciso mostrar `ERRADO: **texto**` e `CERTO: texto`
+- **Proibições precisam de exemplos negativos**: para evitar markdown vazando na resposta
 - **Modelos locais exigem prompts mais rígidos**: GPT e Claude toleram ambiguidades melhor do que modelos menores. Com Qwen3, cada instrução precisa ser explícita
 - **Edge cases devem estar no system prompt**: colocar os casos limite só nos exemplos não é suficiente; os mais críticos precisam estar nas regras principais
 ### 3. Estrutura de dados para agentes
@@ -83,7 +83,7 @@ lumia/
  
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/lumia-agente-financeiro
+git clone https://github.com/GeronPecora/LUMIA.git
 cd lumia-agente-financeiro
  
 # Instale as dependências
