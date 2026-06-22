@@ -120,7 +120,7 @@ Os dados do cliente são carregados na inicialização e injetados diretamente n
 - Não faz recomendação de investimentos
 - Não acessa dados bancários reais
 - Não substitui um profissional certificado (CFP, planejador financeiro)
-- Os dados são mockados — em produção, deveriam ser carregados dinamicamente de uma fonte confiável
+- Os dados são mockados em produção, deveriam ser carregados dinamicamente de uma fonte confiável
 ---
  
 ## 🛠️ Possíveis melhorias futuras
